@@ -140,45 +140,6 @@ flutter run lib/main.dart
 
 La aplicación Flutter iniciará correctamente en el escritorio de Windows, permitiendo visualizar el funcionamiento del mini reproductor de música.
 
-# 📝 Trabajos y Actividades
-
-## 📌 Corte 1
-
-- Actividad de evaluación
-- Lección: 1ra Aplicación de AppSheet mediante una BD
-- Práctica 1.2.1 — Creando una App
-- Práctica 1.2.3 — Directorio de Contactos
-- Práctica 1.2.4 — Registro de Préstamos de Libros
-
----
-
-## 📌 Corte 2
-
-- Lección 2.4.5 — Funciones Tipo
-- Práctica 2.4.1 — Variables y Tipos de Datos en Dart
-- Práctica 2.4.2 — Practicando Condicionales en Dart
-- Práctica 2.4.4 — Practicando Null Safety en Dart
-- Práctica 2.4.4i — Simulador de Cajero Automático en Dart
-- Práctica 2.4.5 — Explorando Funciones Básicas en Dart
-- Práctica 2.4.6 — Explorando Funciones Anónimas en Dart
-- Práctica 2.4.7 — Creando y Manipulando Clases en Dart
-- Práctica 2.4.8 — Implementando Herencia en Dart
-
----
-
-## 📌 Corte 3
-
-- Lección — Primera aplicación en Flutter
-
----
-
-## 📌 Corte 4
-
-- Actividad 4.1 — Mini Reproductor de Música en Flutter
-- Actividad 4.2 — Creación de aplicaciones web y móviles con FlutterFlow
-
----
-
 # ⭐ Objetivo del Repositorio
 
 Mostrar la evolución y el aprendizaje adquirido durante el curso mediante el desarrollo de aplicaciones móviles y prácticas relacionadas con tecnologías actuales.

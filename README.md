@@ -17,6 +17,7 @@ Aplica las metodologías y tecnologías emergentes para el desarrollo de aplicac
   Dart
   FLutter
   GitHub
+  MySQL
 
 - Proyectos:
   Proy. Moviles_2.1_Análisis de Datos con Dart: https://github.com/D1egoRd2/PortafolioMoviles_RodriguezRosalesDiegoGuillermo_222310306/blob/ee57d187a5f35f7ad1d78984cb4f00299507fa12/Proy.%20Moviles_2.1_An%C3%A1lisis%20de%20Datos%20con%20Dart_Rodriguez%20Rosales.pdf
@@ -25,3 +26,15 @@ Aplica las metodologías y tecnologías emergentes para el desarrollo de aplicac
 https://github.com/D1egoRd2/PortafolioMoviles_RodriguezRosalesDiegoGuillermo_222310306/blob/ae3d76c80c3b43624e99e216834da357af6c26ab/Act%204.1_Creaci%C3%B3n%20de%20un%20Mini%20Reproductor%20de%20M%C3%BAsica%20en%20Flutter_Rodriguez%20Rosales.pdf
 
 - Trabajos:
+Corte 1
+  Actividad de evaluación:
+
+  Leccion_La 1ra Aplicacion de AppSheet mediante una BD:
+
+  Pra 1.2.1_Creando una App:
+
+  Pra 1.2.3_Directorio de contactos:
+
+  Pra 1.2.4_Registro de Préstamos de Libros:
+
+  

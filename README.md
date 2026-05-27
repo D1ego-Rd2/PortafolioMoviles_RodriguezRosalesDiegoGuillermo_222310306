@@ -15,26 +15,37 @@ Aplica las metodologías y tecnologías emergentes para el desarrollo de aplicac
 - Tecnologias utilizadas.
   App Sheet
   Dart
+  Dart Pad
   FLutter
   GitHub
   MySQL
+  Visual Studios Code
 
 - Proyectos:
-  Proy. Moviles_2.1_Análisis de Datos con Dart: https://github.com/D1egoRd2/PortafolioMoviles_RodriguezRosalesDiegoGuillermo_222310306/blob/ee57d187a5f35f7ad1d78984cb4f00299507fa12/Proy.%20Moviles_2.1_An%C3%A1lisis%20de%20Datos%20con%20Dart_Rodriguez%20Rosales.pdf
-
-  Act 4.1_Creación de un Mini Reproductor de Música en Flutter:
-https://github.com/D1egoRd2/PortafolioMoviles_RodriguezRosalesDiegoGuillermo_222310306/blob/ae3d76c80c3b43624e99e216834da357af6c26ab/Act%204.1_Creaci%C3%B3n%20de%20un%20Mini%20Reproductor%20de%20M%C3%BAsica%20en%20Flutter_Rodriguez%20Rosales.pdf
-
+  Proy. Moviles_2.1_Análisis de Datos con Dart.
+ 
 - Trabajos:
-Corte 1
-  Actividad de evaluación:
+Corte 1:
+  Actividad de evaluación.
+  Leccion_La 1ra Aplicacion de AppSheet mediante una BD.
+  Pra 1.2.1_Creando una App.
+  Pra 1.2.3_Directorio de contactos.
+  Pra 1.2.4_Registro de Préstamos de Libros.
 
-  Leccion_La 1ra Aplicacion de AppSheet mediante una BD:
+Corte 2:
+  Leccion 2.4.5_Funciones Tipo.
+  Pra 2.4.1_Variables y Tipos de Datos en Dart.
+  Pra 2.4.2_Practicando Condicionales en Dart.
+  Pra 2.4.4_Practicando Null Safety en Dart.
+  Pra 2.4.4i_Simulador de Cajero Automático en Dart.
+  Pra 2.4.5_Explorando Funciones Básicas en Dart.
+  Pra 2.4.6_Explorando Funciones Anónimas en Dart.
+  Pra 2.4.7_Creando y Manipulando Clases en Dart.
+  Pra 2.4.8_Implementando Herencia en Dart.
 
-  Pra 1.2.1_Creando una App:
+Corte 3:
+  Leccion_La 1er aplicación de Flutter.
 
-  Pra 1.2.3_Directorio de contactos:
-
-  Pra 1.2.4_Registro de Préstamos de Libros:
-
-  
+Corte 4:
+  Act 4.1_Creación de un Mini Reproductor de Música en Flutter.
+  Act 4.2_Como crear cualquier aplicación web y móvil sin programar usando flutterflow.
